@@ -17,3 +17,6 @@ Status | On  | Off | On  | 5
 Status | Off | On  | On  | 6
 Status | On  | On  | On  | 7
 
+## Program Download
+ Go to [Release](https://github.com/mdauphin/UsbNotifier/releases/tag/v0.1) dowload last executable file, depends [Visual Studio 2008 VCRedist](https://www.microsoft.com/fr-fr/download/details.aspx?id=29).
+ 
